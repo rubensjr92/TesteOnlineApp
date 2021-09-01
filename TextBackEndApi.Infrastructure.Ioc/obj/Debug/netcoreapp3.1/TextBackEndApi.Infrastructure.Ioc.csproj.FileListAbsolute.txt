@@ -1,0 +1,17 @@
+D:\Projetos\TesteBackEnd\src\TextBackEndApi.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\TextBackEndApi.Infrastructure.Ioc.deps.json
+D:\Projetos\TesteBackEnd\src\TextBackEndApi.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\TextBackEndApi.Infrastructure.Ioc.dll
+D:\Projetos\TesteBackEnd\src\TextBackEndApi.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\TextBackEndApi.Infrastructure.Ioc.pdb
+D:\Projetos\TesteBackEnd\src\TextBackEndApi.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\TestBackEndApi.Domain.dll
+D:\Projetos\TesteBackEnd\src\TextBackEndApi.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Data.dll
+D:\Projetos\TesteBackEnd\src\TextBackEndApi.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Services.dll
+D:\Projetos\TesteBackEnd\src\TextBackEndApi.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\TestBackEndApi.Domain.pdb
+D:\Projetos\TesteBackEnd\src\TextBackEndApi.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Data.pdb
+D:\Projetos\TesteBackEnd\src\TextBackEndApi.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Services.pdb
+D:\Projetos\TesteBackEnd\src\TextBackEndApi.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\TextBackEndApi.Infrastructure.Ioc.csproj.AssemblyReference.cache
+D:\Projetos\TesteBackEnd\src\TextBackEndApi.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\TextBackEndApi.Infrastructure.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\TesteBackEnd\src\TextBackEndApi.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\TextBackEndApi.Infrastructure.Ioc.AssemblyInfoInputs.cache
+D:\Projetos\TesteBackEnd\src\TextBackEndApi.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\TextBackEndApi.Infrastructure.Ioc.AssemblyInfo.cs
+D:\Projetos\TesteBackEnd\src\TextBackEndApi.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\TextBackEndApi.Infrastructure.Ioc.csproj.CoreCompileInputs.cache
+D:\Projetos\TesteBackEnd\src\TextBackEndApi.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\TextBackEndApi.Infrastructure.Ioc.csproj.CopyComplete
+D:\Projetos\TesteBackEnd\src\TextBackEndApi.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\TextBackEndApi.Infrastructure.Ioc.dll
+D:\Projetos\TesteBackEnd\src\TextBackEndApi.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\TextBackEndApi.Infrastructure.Ioc.pdb

@@ -1,0 +1,10 @@
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.Data\bin\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Data.deps.json
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.Data\bin\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Data.dll
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.Data\bin\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Data.pdb
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.Data\obj\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Data.csproj.AssemblyReference.cache
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.Data\obj\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.Data\obj\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.Data\obj\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Data.AssemblyInfo.cs
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.Data\obj\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.Data\obj\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Data.dll
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.Data\obj\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Data.pdb

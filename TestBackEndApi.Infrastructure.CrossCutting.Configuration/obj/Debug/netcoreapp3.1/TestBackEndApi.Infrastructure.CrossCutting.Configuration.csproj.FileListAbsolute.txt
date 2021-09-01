@@ -1,0 +1,10 @@
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.CrossCutting.Configuration\bin\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.CrossCutting.Configuration.deps.json
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.CrossCutting.Configuration\bin\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.CrossCutting.Configuration.dll
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.CrossCutting.Configuration\bin\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.CrossCutting.Configuration.pdb
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.CrossCutting.Configuration.csproj.AssemblyReference.cache
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.CrossCutting.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.CrossCutting.Configuration.AssemblyInfoInputs.cache
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.CrossCutting.Configuration.AssemblyInfo.cs
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.CrossCutting.Configuration.csproj.CoreCompileInputs.cache
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.CrossCutting.Configuration.dll
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Infrastructure.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.CrossCutting.Configuration.pdb

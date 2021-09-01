@@ -1,0 +1,458 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Api\\TestBackEndApi.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Api\\TestBackEndApi.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Api\\TestBackEndApi.Api.csproj",
+        "projectName": "TestBackEndApi.Api",
+        "projectPath": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Api\\TestBackEndApi.Api.csproj",
+        "packagesPath": "C:\\Users\\Rubens\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rubens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Domain\\TestBackEndApi.Domain.csproj": {
+                "projectPath": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Domain\\TestBackEndApi.Domain.csproj"
+              },
+              "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.CrossCutting.Configuration\\TestBackEndApi.Infrastructure.CrossCutting.Configuration.csproj": {
+                "projectPath": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.CrossCutting.Configuration\\TestBackEndApi.Infrastructure.CrossCutting.Configuration.csproj"
+              },
+              "D:\\Projetos\\TesteBackEnd\\src\\TextBackEndApi.Infrastructure.Ioc\\TextBackEndApi.Infrastructure.Ioc.csproj": {
+                "projectPath": "D:\\Projetos\\TesteBackEnd\\src\\TextBackEndApi.Infrastructure.Ioc\\TextBackEndApi.Infrastructure.Ioc.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.PlatformAbstractions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "SimpleInjector": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "SimpleInjector.Integration.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Arquivos de Programas\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Domain\\TestBackEndApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Domain\\TestBackEndApi.Domain.csproj",
+        "projectName": "TestBackEndApi.Domain",
+        "projectPath": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Domain\\TestBackEndApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\Rubens\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rubens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.Data\\TestBackEndApi.Infrastructure.Data.csproj": {
+                "projectPath": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.Data\\TestBackEndApi.Infrastructure.Data.csproj"
+              },
+              "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.Services\\TestBackEndApi.Infrastructure.Services.csproj": {
+                "projectPath": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.Services\\TestBackEndApi.Infrastructure.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Arquivos de Programas\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.CrossCutting.Configuration\\TestBackEndApi.Infrastructure.CrossCutting.Configuration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.CrossCutting.Configuration\\TestBackEndApi.Infrastructure.CrossCutting.Configuration.csproj",
+        "projectName": "TestBackEndApi.Infrastructure.CrossCutting.Configuration",
+        "projectPath": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.CrossCutting.Configuration\\TestBackEndApi.Infrastructure.CrossCutting.Configuration.csproj",
+        "packagesPath": "C:\\Users\\Rubens\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.CrossCutting.Configuration\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rubens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Arquivos de Programas\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.Data\\TestBackEndApi.Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.Data\\TestBackEndApi.Infrastructure.Data.csproj",
+        "projectName": "TestBackEndApi.Infrastructure.Data",
+        "projectPath": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.Data\\TestBackEndApi.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\Rubens\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rubens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Arquivos de Programas\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.Services\\TestBackEndApi.Infrastructure.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.Services\\TestBackEndApi.Infrastructure.Services.csproj",
+        "projectName": "TestBackEndApi.Infrastructure.Services",
+        "projectPath": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.Services\\TestBackEndApi.Infrastructure.Services.csproj",
+        "packagesPath": "C:\\Users\\Rubens\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rubens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Arquivos de Programas\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\TesteBackEnd\\src\\TextBackEndApi.Infrastructure.Ioc\\TextBackEndApi.Infrastructure.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\TesteBackEnd\\src\\TextBackEndApi.Infrastructure.Ioc\\TextBackEndApi.Infrastructure.Ioc.csproj",
+        "projectName": "TextBackEndApi.Infrastructure.Ioc",
+        "projectPath": "D:\\Projetos\\TesteBackEnd\\src\\TextBackEndApi.Infrastructure.Ioc\\TextBackEndApi.Infrastructure.Ioc.csproj",
+        "packagesPath": "C:\\Users\\Rubens\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\TesteBackEnd\\src\\TextBackEndApi.Infrastructure.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rubens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Domain\\TestBackEndApi.Domain.csproj": {
+                "projectPath": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Domain\\TestBackEndApi.Domain.csproj"
+              },
+              "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.Data\\TestBackEndApi.Infrastructure.Data.csproj": {
+                "projectPath": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.Data\\TestBackEndApi.Infrastructure.Data.csproj"
+              },
+              "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.Services\\TestBackEndApi.Infrastructure.Services.csproj": {
+                "projectPath": "D:\\Projetos\\TesteBackEnd\\src\\TestBackEndApi.Infrastructure.Services\\TestBackEndApi.Infrastructure.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "SimpleInjector": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Arquivos de Programas\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Domain\bin\Debug\netcoreapp3.1\TestBackEndApi.Domain.deps.json
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Domain\bin\Debug\netcoreapp3.1\TestBackEndApi.Domain.dll
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Domain\bin\Debug\netcoreapp3.1\TestBackEndApi.Domain.pdb
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Domain\bin\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Data.dll
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Domain\bin\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Services.dll
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Domain\bin\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Data.pdb
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Domain\bin\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Services.pdb
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Domain\obj\Debug\netcoreapp3.1\TestBackEndApi.Domain.csproj.AssemblyReference.cache
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Domain\obj\Debug\netcoreapp3.1\TestBackEndApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Domain\obj\Debug\netcoreapp3.1\TestBackEndApi.Domain.AssemblyInfoInputs.cache
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Domain\obj\Debug\netcoreapp3.1\TestBackEndApi.Domain.AssemblyInfo.cs
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Domain\obj\Debug\netcoreapp3.1\TestBackEndApi.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Domain\obj\Debug\netcoreapp3.1\TestBackEndApi.Domain.csproj.CopyComplete
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Domain\obj\Debug\netcoreapp3.1\TestBackEndApi.Domain.dll
+D:\Projetos\TesteBackEnd\src\TestBackEndApi.Domain\obj\Debug\netcoreapp3.1\TestBackEndApi.Domain.pdb
