@@ -15,3 +15,7 @@ O que foi feito:
 - Serializando o retorno da api viacep para o objeto CepResponse, usando Newtonsoft
 
 - Adicionado services.AddMvc().AddXmlSerializerFormatters(); para ter a possibilidade de retornar em xml tbm
+
+- Feito try/catch na controller, para não retornar stack trace quando um erro interno ocorrer (retornando apenas um http500)
+
+- Removido algumas propriedades no retorno da api e concatenado localidade e uf, conforme solicitado
